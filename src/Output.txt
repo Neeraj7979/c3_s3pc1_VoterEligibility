@@ -1,0 +1,2 @@
+age = 10 and name = John
+John Is Not eligible to vote

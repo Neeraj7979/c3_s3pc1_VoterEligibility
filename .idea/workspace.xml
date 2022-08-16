@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b47954ba-fee7-4fd1-9508-749ba57ae438" name="Changes" comment="Creating class VoterImpl in package com.election">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/election/VoterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/election/VoterImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/Voter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/Voter.java" afterDir="false" />
-    </list>
+    <list default="true" id="b47954ba-fee7-4fd1-9508-749ba57ae438" name="Changes" comment="Final commit for voters eligibility code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660646276042</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Final commit for voters eligibility code">
+      <created>1660652229743</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660652229743</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +122,22 @@
     <MESSAGE value="declaring attributes and static final variable" />
     <MESSAGE value="creating method getAgeCriteria" />
     <MESSAGE value="Creating class VoterImpl in package com.election" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating class VoterImpl in package com.election" />
+    <MESSAGE value="Final commit for voters eligibility code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final commit for voters eligibility code" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/election/VoterImpl.java</url>
+          <line>5</line>
+          <properties class="com.election.VoterImpl" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

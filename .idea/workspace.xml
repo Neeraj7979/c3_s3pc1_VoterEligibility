@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b47954ba-fee7-4fd1-9508-749ba57ae438" name="Changes" comment="creating method getAgeCriteria">
-      <change afterPath="$PROJECT_DIR$/src/com/election/VoterImpl.java" afterDir="false" />
+    <list default="true" id="b47954ba-fee7-4fd1-9508-749ba57ae438" name="Changes" comment="Creating class VoterImpl in package com.election">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/election/VoterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/election/VoterImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/example/Voter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/Voter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,11 +37,32 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/imnsi/Desktop/NiitJavaProjects/course3/Sprint 3/c3_s3_pc2_FurnitureMart",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="VoterImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.election.VoterImpl" />
+      <module name="c3_s3pc1_VoterEligibility" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.election.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VoterImpl" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660643908107</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Creating class VoterImpl in package com.election">
+      <created>1660646276041</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660646276042</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +118,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="declaring attributes and static final variable" />
     <MESSAGE value="creating method getAgeCriteria" />
-    <option name="LAST_COMMIT_MESSAGE" value="creating method getAgeCriteria" />
+    <MESSAGE value="Creating class VoterImpl in package com.election" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating class VoterImpl in package com.election" />
   </component>
 </project>
